@@ -1,0 +1,3 @@
+C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\x64\Debug\CppWinFormsApp1oop.vcxproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\x64\Debug\CppWinFormsApp1oop.MyForm.resources
+C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\x64\Debug\CppWinFormsApp1oop.vcxproj.GenerateResource.cache

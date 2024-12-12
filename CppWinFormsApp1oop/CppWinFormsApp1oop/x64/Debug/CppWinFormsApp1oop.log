@@ -1,0 +1,11 @@
+﻿  customer.cpp
+C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\customer.cpp(3,11): error C2084: function 'customer::customer(System::String ^,System::String ^,int,System::String ^)' already has a body
+      C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\customer.h(14,5):
+      see previous definition of 'customer::customer'
+  
+  driver.cpp
+C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\driver.cpp(3,9): error C2084: function 'driver::driver(int,System::String ^,System::String ^,System::String ^)' already has a body
+      C:\Users\hp\source\repos\CppWinFormsApp1oop\CppWinFormsApp1oop\driver.h(12,13):
+      see previous definition of 'driver::driver'
+  
+  Generating Code...
